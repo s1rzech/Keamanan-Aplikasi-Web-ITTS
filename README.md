@@ -11,8 +11,8 @@ Repositori ini memuat dokumentasi teknis, lembar kerja evaluasi, analisis kode, 
 * **Mata Kuliah:** Keamanan Aplikasi Web (TI215)
 * **Dosen Pengampu:** Taufik Iqbal Ramdhani, S.Kom., M.Sc.
 * **Anggota Tim / Kelompok:**
-  1. Hafiz Hablillah
-  2. Farel Eka Saputra
+1. Hafiz Hablillah
+2. Farel Eka Saputra
 
 ---
 
