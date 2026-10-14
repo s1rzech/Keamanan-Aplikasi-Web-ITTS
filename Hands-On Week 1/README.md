@@ -5,7 +5,8 @@
 **Dosen Pengampu:** Taufik Iqbal Ramdhani, S.Kom., M.Sc.  
 **Kelompok / Tim:**
 1. Hafiz Hablillah
-2. Farel Eka Saputra 
+2. Farel Eka Saputra
+
 **Tanggal:** 14 Oktober 2026  
 **Target Pengujian:** `http://localhost:8000` & `http://localhost:8001` (Lingkungan lokal terisolasi)
 
